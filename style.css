@@ -35,7 +35,130 @@ width: 100%;
     margin-top: 35px;
 }
 .encontrar{
-    border: 1px solid white;
+    border: 2px solid white;
     margin-left: 80px;
     margin-right: 80px;
+    border-radius: 20px;
 }
+header.row {
+    margin-right: 0px;
+    margin-left: 0px;
+    }
+    section.row {
+        margin-right: 0px;
+        margin-left: 0px;
+        } 
+ article.row{
+    margin-right: 0px;
+        margin-left: 0px; 
+ } 
+ aside.row{
+    margin-right: 0px;
+    margin-left: 0px; 
+ }       
+.foto1{
+    width: 100%;
+    margin-top: 30px;
+    height: 450px;
+}   
+.tradicion{
+    text-align: center;
+
+} 
+.sabor{
+    color: green;
+    margin-top: 60px;
+    margin-bottom: 40px;
+
+}  
+.somos{
+    color: gray;
+    line-height: 30px;
+    text-align: justify;
+}  
+.tipico{
+    color: green;
+
+}  
+.conoce{
+    margin-top: 30px;
+    background-color: red;
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+}
+aside{
+    background-color: red;
+    
+}
+.tradicion1{
+    color: white;
+    margin-top: 48px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.productos2{
+    margin-top: 25px;
+    color: white;
+    margin-bottom: 40px;
+}
+.somos2{
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 48px;
+}
+.conoce2:hover, .conoce3:hover{
+    background-color: white;
+    color: red;
+}
+
+.foto4{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    
+    }
+    
+        .tradicion3 {
+            background-color: #ffc700;
+            text-align: center;
+            color: white;
+            }            
+.fotoArepa{
+    width: 100%;
+    height: 100%;
+    margin-right: 0px;
+padding-right: 0px;
+
+    
+}
+.conoce4{
+    background-color: transparent;
+
+}
+.conoce4:hover{
+    color:#ffc700 ;
+    background-color: white;
+}
+
+.footer{
+    background-color: #ffc700 ;
+    
+    height: 90px;
+    
+}
+.carlos{
+    color: rgba(0, 0, 0, 0.87);
+    text-align: center;
+
+    
+
+}
+.david{
+    font-size: medium;
+    color: white;
+}
+footer.row {
+    margin-right: 0px;
+    margin-left: 0px;
+    border-top: 1px solid white;
+    }
